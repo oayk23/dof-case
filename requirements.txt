@@ -9,3 +9,4 @@ numpy==1.26.4
 tiktoken==0.9.0
 TTS==0.22.0
 sounddevice==0.5.2
+noisereduce
